@@ -20,13 +20,13 @@ session_start();
 		<div class="login-content">
 			<form action="cadastrar.php" method="POST">
 				<img src="../Imagens\Login_imgs\avatar.png">
-				<h2 class="title">Welcomeeeee</h2>
+				<h2 class="title">Welcome</h2>
            		<div class="input-div one">
            		   <div class="i">
            		   		<i class="fas fa-user"></i>
            		   </div>
            		   <div class="div">
-           		   		<h5>Nomee</h5>
+           		   		<h5>Nome</h5>
            		   		<input name="nome" class="input" >
            		   </div>
            		</div>
